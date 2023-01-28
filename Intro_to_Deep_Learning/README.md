@@ -12,6 +12,10 @@ The **[Modern Mathematics](https://arxiv.org/abs/2105.04026)** of Deep Learning 
 *الذكاء الاصطناعي هو الرياضيات الجديدة للعالم.*\
 https://twitter.com/SDAIA_SA/status/1601631210090147840
 
+"Math isn’t about memorizing formulas; it’s about sharpening your intuition".  
+https://twitter.com/luis_likes_math/status/1618989706511015936  
+https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/
+
 --
 
 [التعلم العميق](https://www.hindawi.org/books/13139359/6/)\
@@ -64,8 +68,9 @@ ____
 
 ----
 **Coursera | ML & DL**
->**Step10:** [Machine Learning Specialization](https://www.deeplearning.ai/program/machine-learning-specialization/) (DeepLearning.AI & Stanford)\
-**Step11:** [The Deep Learning Specialization](https://www.deeplearning.ai/program/deep-learning-specialization/) (DeepLearning.AI & Stanford)
+>**Step10:** [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) (DeepLearning.AI)\
+**Step11:** [Machine Learning Specialization](https://www.deeplearning.ai/program/machine-learning-specialization/) (DeepLearning.AI & Stanford)\
+**Step12:** [The Deep Learning Specialization](https://www.deeplearning.ai/program/deep-learning-specialization/) (DeepLearning.AI & Stanford)
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
