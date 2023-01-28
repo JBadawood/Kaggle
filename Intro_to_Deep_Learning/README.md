@@ -68,7 +68,7 @@ ____
 
 ----
 **Coursera | ML & DL**
->**Step10:** [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) (DeepLearning.AI)\
+>**Step10:** [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) (DeepLearning.AI)\
 **Step11:** [Machine Learning Specialization](https://www.deeplearning.ai/program/machine-learning-specialization/) (DeepLearning.AI & Stanford)\
 **Step12:** [The Deep Learning Specialization](https://www.deeplearning.ai/program/deep-learning-specialization/) (DeepLearning.AI & Stanford)
 
