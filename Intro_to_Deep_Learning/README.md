@@ -9,7 +9,7 @@ https://www.kaggle.com/learn/intro-to-deep-learning
 The **[Modern Mathematics](https://arxiv.org/abs/2105.04026)** of Deep Learning ([The Mathematics of Artificial Intelligence](https://arxiv.org/abs/2203.08890) | Deep Neural Networks)
 
 \
-*الذكاء الاصطناعي هو الرياضيات الجديدة للعالم.*[^1]
+*الذكاء الاصطناعي هو الرياضيات الجديدة للعالم.* [^1]
 [^1]: https://twitter.com/SDAIA_SA/status/1601631210090147840
 
 "Math isn’t about memorizing formulas; it’s about sharpening your intuition". [^2] 
