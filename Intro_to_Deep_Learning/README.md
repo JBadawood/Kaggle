@@ -9,11 +9,12 @@ https://www.kaggle.com/learn/intro-to-deep-learning
 The **[Modern Mathematics](https://arxiv.org/abs/2105.04026)** of Deep Learning ([The Mathematics of Artificial Intelligence](https://arxiv.org/abs/2203.08890) | Deep Neural Networks)
 
 \
-*الذكاء الاصطناعي هو الرياضيات الجديدة للعالم.*\
-https://twitter.com/SDAIA_SA/status/1601631210090147840
+*الذكاء الاصطناعي هو الرياضيات الجديدة للعالم.*[^1]
+[^1]: https://twitter.com/SDAIA_SA/status/1601631210090147840
 
-"Math isn’t about memorizing formulas; it’s about sharpening your intuition".  
-https://twitter.com/luis_likes_math/status/1618989706511015936  
+"Math isn’t about memorizing formulas; it’s about sharpening your intuition". [^2] 
+[^2]: https://twitter.com/luis_likes_math/status/1618989706511015936  
+
 https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/
 
 --
@@ -35,20 +36,20 @@ Implemented with PyTorch, NumPy/MXNet, JAX, and **TensorFlow**
 ---
 
 **تعلُّم عميق**\
-**مجال فرعي من تعلم الآلة** يستخدم عدة طبقات مخفية في **الشبكات العصبية** لحل المشكلات المعقدة عن طريق تحديد *أهم الخصائص الأساسية* لبيانات الإدخال. [^1]
+**مجال فرعي من تعلم الآلة** يستخدم عدة طبقات مخفية في **الشبكات العصبية** لحل المشكلات المعقدة عن طريق تحديد *أهم الخصائص الأساسية* لبيانات الإدخال. [^3]
 
 **Deep Learning**\
-A **subfield of machine learning** that uses multiple **neural network** hidden layers to solve complex problems by identifying *the most essential features* of the input data. [^1]
+A **subfield of machine learning** that uses multiple **neural network** hidden layers to solve complex problems by identifying *the most essential features* of the input data. [^3]
 
 --
 
 **تعلم الآلة**\
-*مجال فرعي للذكاء الاصطناعي **يهتم بتعلم الأنماط** من البيانات المتاحة لعمل **تنبؤات** أو **قرارات** مبنية على بيانات جديدة دون برمجة صريحة* [^1]
+*مجال فرعي للذكاء الاصطناعي **يهتم بتعلم الأنماط** من البيانات المتاحة لعمل **تنبؤات** أو **قرارات** مبنية على بيانات جديدة دون برمجة صريحة* [^3]
 
 **Machine Learning (ML)**\
-*An AI subfield concerned with **learning patterns** from available data to make **predictions** or **decisions** based on new data without explicit programming.* [^1]
+*An AI subfield concerned with **learning patterns** from available data to make **predictions** or **decisions** based on new data without explicit programming.* [^3]
 
-[^1]: المصدر: [معجـــم البيانـــات والـــذكاء الاصطناعـــي](https://sdaia.gov.sa/files/Dictionary.pdf) من الهيئة السعودية للبيانات والذكاء الاصطناعي بالتعاون مع مجمع الملك سلمان العالمي للغة العربية (الطبعة الأولى 2022)
+[^3]: المصدر: [معجـــم البيانـــات والـــذكاء الاصطناعـــي](https://sdaia.gov.sa/files/Dictionary.pdf) من الهيئة السعودية للبيانات والذكاء الاصطناعي بالتعاون مع مجمع الملك سلمان العالمي للغة العربية (الطبعة الأولى 2022)
 
 ____
 
