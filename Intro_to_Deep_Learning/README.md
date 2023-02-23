@@ -35,20 +35,20 @@ Implemented with PyTorch, NumPy/MXNet, JAX, and **TensorFlow**
 ---
 
 **تعلُّم عميق**\
-**مجال فرعي من تعلم الآلة** يستخدم عدة طبقات مخفية في **الشبكات العصبية** لحل المشكلات المعقدة عن طريق تحديد *أهم الخصائص الأساسية* لبيانات الإدخال.
+**مجال فرعي من تعلم الآلة** يستخدم عدة طبقات مخفية في **الشبكات العصبية** لحل المشكلات المعقدة عن طريق تحديد *أهم الخصائص الأساسية* لبيانات الإدخال. [^1]
 
 **Deep Learning**\
-A **subfield of machine learning** that uses multiple **neural network** hidden layers to solve complex problems by identifying *the most essential features* of the input data.
+A **subfield of machine learning** that uses multiple **neural network** hidden layers to solve complex problems by identifying *the most essential features* of the input data. [^1]
 
 --
 
 **تعلم الآلة**\
-*مجال فرعي للذكاء الاصطناعي **يهتم بتعلم الأنماط** من البيانات المتاحة لعمل **تنبؤات** أو **قرارات** مبنية على بيانات جديدة دون برمجة صريحة*
+*مجال فرعي للذكاء الاصطناعي **يهتم بتعلم الأنماط** من البيانات المتاحة لعمل **تنبؤات** أو **قرارات** مبنية على بيانات جديدة دون برمجة صريحة* [^1]
 
 **Machine Learning (ML)**\
-*An AI subfield concerned with **learning patterns** from available data to make **predictions** or **decisions** based on new data without explicit programming.*
+*An AI subfield concerned with **learning patterns** from available data to make **predictions** or **decisions** based on new data without explicit programming.* [^1]
 
->المصدر: [معجـــم البيانـــات والـــذكاء الاصطناعـــي](https://sdaia.gov.sa/files/Dictionary.pdf) من الهيئة السعودية للبيانات والذكاء الاصطناعي بالتعاون مع مجمع الملك سلمان العالمي للغة العربية (الطبعة الأولى 2022)
+[^1]: المصدر: [معجـــم البيانـــات والـــذكاء الاصطناعـــي](https://sdaia.gov.sa/files/Dictionary.pdf) من الهيئة السعودية للبيانات والذكاء الاصطناعي بالتعاون مع مجمع الملك سلمان العالمي للغة العربية (الطبعة الأولى 2022)
 
 ____
 
